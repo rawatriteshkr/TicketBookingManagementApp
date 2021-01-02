@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jan 02 14:04:25 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-c23b-c095-000007b5e4f0 
+on database directory memory:E:\Work\workspace\TicketBookingManagementApp\0d7660f9-2ce0-4c37-9b38-6a2c5ce3f52b with class loader sun.misc.Launcher$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/admin/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_20-b26
+user.dir=E:\Work\workspace\TicketBookingManagementApp
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
